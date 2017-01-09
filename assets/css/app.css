@@ -5313,6 +5313,12 @@ article.blog-post {
       padding: 1rem; }
     .docs article table th {
       font-size: 16px; }
+    .docs article table [align=center] {
+      text-align: center; }
+    .docs article table [align=left] {
+      text-align: left; }
+    .docs article table [align=right] {
+      text-align: right; }
 
 .docs-wrapper {
   overflow: hidden; }
