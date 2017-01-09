@@ -5285,7 +5285,7 @@ article.blog-post {
       color: #525252;
       text-decoration: none; }
     .docs article h2 a:before {
-      content: "#";
+      content: "# ";
       margin-left: -1rem;
       font-size: 1.25rem;
       color: #ff574a;
