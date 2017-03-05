@@ -5355,4 +5355,24 @@ article.blog-post {
 .tag-vue {
   background-color: #4fc08d; }
 
+.blog-post-links {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+  flex-direction: row; }
+  .blog-post-links > * {
+    -ms-flex: 1;
+    flex: 1; }
+
+.image-wide {
+  max-width: 100vw;
+  width: 140%;
+  margin-left: -20%; }
+
+.card-img-top.img-fluid, .carousel-inner > .carousel-item > img.card-img-top,
+.carousel-inner > .carousel-item > a > img.card-img-top {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
 /*# sourceMappingURL=app.css.map */
