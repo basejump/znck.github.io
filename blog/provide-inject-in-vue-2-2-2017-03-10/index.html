@@ -89,12 +89,12 @@
                     <br class="hidden-lg-up">
                                     </div>
 
-                <p>The <strong>Initial D</strong> release of Vue have some amazing new features, including improved server side rendering, v-model customisations, better error handling, provide &amp; inject pair and many other small improvements.</p>
-<p>The provide and inject pair offers data flow deep in descendant chain. Ancestor components can serve as dependency injector for all its descendants, regardless how deep the component hierarchy is. The feature is advertised for advance plugin/component usages.</p>
+                <p>The <strong>Initial D</strong> release of Vue have some amazing new features, including improved server side rendering, <code>v-model</code> customisations, better error handling, <code>provide</code> &amp; <code>inject</code> pair and many other small improvements.</p>
+<p>The <code>provide</code> and <code>inject</code> pair offers data flow deep in descendant chain. Ancestor components can serve as dependency injector for all its descendants, regardless how deep the component hierarchy is. The feature is advertised for advance plugin/component usages.</p>
 <h3>Workflow</h3>
-<p>It works in two parts — One component would provide data and other would use it (inject).</p>
+<p>It works in two parts — One component would <code>provide</code> data and other would use it (<code>inject</code>).</p>
 <blockquote>
-<p>The provide option should be an object or a function that returns an object. This object contains the properties that are available for injection into its descendants. You can use ES2015 Symbols as keys in this object, but only in environments that natively support Symbol and Reflect.ownKeys.</p>
+<p>The <code>provide</code> option should be an <code>object</code> or a <code>function</code> that returns an <code>object</code>. This <code>object</code> contains the properties that are available for injection into its descendants. You can use ES2015 Symbols as keys in this <code>object</code>, but only in environments that natively support <code>Symbol</code> and <code>Reflect.ownKeys</code>.</p>
 </blockquote>
 <pre><code><span class="line">const Provider = {</span>
 <span class="line"> provide: {</span>
@@ -102,13 +102,13 @@
 <span class="line">  }</span>
 <span class="line">}</span></code></pre>
 <blockquote>
-<p>The inject options should be either an Array of strings or an object where the keys stand for the local binding name, and the value being the key (string or Symbol) to search for in available injections.</p>
+<p>The <code>inject</code> options should be either an <code>Array</code> of strings or an <code>object</code> where the keys stand for the local binding name, and the value being the key (<code>string</code> or <code>Symbol</code>) to search for in available injections.</p>
 </blockquote>
 <pre><code><span class="line">const Child = {</span>
 <span class="line"> inject: ['foo']</span>
 <span class="line">}</span></code></pre>
 <script async src="//jsfiddle.net/znck/4v95vfh3/embed/"></script>
-<p>The provide/inject binding are <strong>NOT</strong> reactive. But if observed objects are provided, they do remain reactive.</p>
+<p>The <code>provide</code>/<code>inject</code> binding are <strong>NOT</strong> reactive. But if observed objects are provided, they do remain reactive.</p>
 <pre><code><span class="line">const Provider = {</span>
 <span class="line">  provide () {</span>
 <span class="line">    const foo = {}</span>
@@ -124,13 +124,13 @@
 <span class="line">  data: () =&gt; ({ bar: 'baz' })</span>
 <span class="line">}</span></code></pre>
 <script async src="//jsfiddle.net/znck/fdzwtz43/embed/"></script>
-<p>Injections are available in props and data. So, you could set prop defaults to injected data or you can use injections as initial data.</p>
+<p>Injections are available in <code>props</code> and <code>data</code>. So, you could set <code>prop</code> defaults to injected data or you can use injections as initial <code>data</code>.</p>
 <h3>Performance</h3>
-<p>Both provide and inject are one time actions performed at component initialisation. So, there won’t be any apparent performance degradation.</p>
-<p>provide action is constant time.</p>
-<p>For each injected property, inject would traverse the parent chain until first provider is reached.</p>
+<p>Both <code>provide</code> and <code>inject</code> are one time actions performed at component initialisation. So, there won’t be any apparent performance degradation.</p>
+<p><code>provide</code> action is constant time.</p>
+<p>For each injected property, <code>inject</code> would traverse the parent chain until first provider is reached.</p>
 <h3>Conclusion</h3>
-<p>With provide/inject, you can provide data to distant descendent and that allows to create amazing functionalities. A whole new type of Vue plugins are about to appear.</p>
+<p>With <code>provide</code>/<code>inject</code>, you can provide data to distant descendent and that allows to create amazing functionalities. A whole new type of Vue plugins are about to appear.</p>
 <p>For example: A parent component can inject validation messages in input components.</p>
 <script async src="//jsfiddle.net/znck/go4yepc1/embed/"></script>
             </article>
@@ -141,8 +141,8 @@
 
     <script>
     var disqus_config = function () {
-        this.page.url = 'http://znck.me/blog/provide-inject-in-vue-2-2-2016-03-10/';
-        this.page.identifier = 'blog/provide-inject-in-vue-2-2-2016-03-10/';
+        this.page.url = 'http://znck.me/blog/provide-inject-in-vue-2-2-2017-03-10/';
+        this.page.identifier = 'blog/provide-inject-in-vue-2-2-2017-03-10/';
     };
     (function () {
         var d = document, s = d.createElement('script');
@@ -166,12 +166,6 @@
         </div>
     </div>
 
-            <div class="post-next mt-3" >
-            <div class="post-title">
-                <small>Up next</small>
-                <a href="http://znck.me/blog/learning-education-this-world-and-beyond-2016-06-24">Learning, Education, This world and Beyond!</a>
-            </div>
-        </div>
     </div>
 
 <div class="clearfix"></div>
