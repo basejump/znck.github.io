@@ -2,18 +2,18 @@
   "publicPath": "/_nuxt/",
   "all": [
     "api/blog/posts/2017-03-03-first-day-in-vue-js.json",
-    "0.nuxt.bundle.7d453f20c4f47ca59715.js",
-    "2.nuxt.bundle.fb201e5fe5626ccf96f6.js",
-    "3.nuxt.bundle.185a2db0d3834a9ec9cb.js",
+    "0.nuxt.bundle.c7e4cb964ee640d1f460.js",
+    "2.nuxt.bundle.1e0a294113db4fdd7948.js",
+    "3.nuxt.bundle.02cdb5bceeb5163c69bc.js",
     "4.nuxt.bundle.4e723778c19b7f81600b.js",
     "5.nuxt.bundle.1725e73fb768b58ec15e.js",
     "6.nuxt.bundle.e151ec0a9db79ff8ea5d.js",
     "vendor.bundle.4ea82008ba94f7dd76fe.js",
     "nuxt.bundle.460778f6f58f6ae8415d.js",
-    "manifest.044c10774f31d789d596.js",
+    "manifest.d4c6ad6d5f74ecf46434.js",
     "api/blog/posts/2017-03-10-provide-inject-in-vue-2-2.json",
     "api/blog/posts/2017-03-05-fiddle-with-vue-js.json",
-    "1.nuxt.bundle.8e6cd042c754d0dc6c41.js",
+    "1.nuxt.bundle.3795e19f6242f79e7b24.js",
     "api/blog/posts/2016-06-24-learning-education-this-world-and-beyond.json",
     "api/blog/tags/vue.json",
     "api/blog/tags/javascript.json",
@@ -27,18 +27,18 @@
     "index.html"
   ],
   "initial": [
-    "manifest.044c10774f31d789d596.js",
+    "manifest.d4c6ad6d5f74ecf46434.js",
     "vendor.bundle.4ea82008ba94f7dd76fe.js",
     "nuxt.bundle.460778f6f58f6ae8415d.js"
   ],
   "async": [
-    "0.nuxt.bundle.7d453f20c4f47ca59715.js",
-    "2.nuxt.bundle.fb201e5fe5626ccf96f6.js",
-    "3.nuxt.bundle.185a2db0d3834a9ec9cb.js",
+    "0.nuxt.bundle.c7e4cb964ee640d1f460.js",
+    "2.nuxt.bundle.1e0a294113db4fdd7948.js",
+    "3.nuxt.bundle.02cdb5bceeb5163c69bc.js",
     "4.nuxt.bundle.4e723778c19b7f81600b.js",
     "5.nuxt.bundle.1725e73fb768b58ec15e.js",
     "6.nuxt.bundle.e151ec0a9db79ff8ea5d.js",
-    "1.nuxt.bundle.8e6cd042c754d0dc6c41.js"
+    "1.nuxt.bundle.3795e19f6242f79e7b24.js"
   ],
   "modules": {
     "18152287": [
