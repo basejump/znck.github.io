@@ -2,18 +2,18 @@
   "publicPath": "/_nuxt/",
   "all": [
     "api/blog/posts/2017-03-03-first-day-in-vue-js.json",
-    "0.nuxt.bundle.37b4c1a8ac481f4aeb46.js",
-    "2.nuxt.bundle.a36c0f46a74fe9980d01.js",
-    "3.nuxt.bundle.5a589084326f9bb6f4e4.js",
+    "0.nuxt.bundle.7d453f20c4f47ca59715.js",
+    "2.nuxt.bundle.fb201e5fe5626ccf96f6.js",
+    "3.nuxt.bundle.185a2db0d3834a9ec9cb.js",
     "4.nuxt.bundle.4e723778c19b7f81600b.js",
     "5.nuxt.bundle.1725e73fb768b58ec15e.js",
     "6.nuxt.bundle.e151ec0a9db79ff8ea5d.js",
-    "vendor.bundle.e55b17f23472c056ccb1.js",
-    "nuxt.bundle.555099c08fe076e3c291.js",
-    "manifest.f99191f7b03a7be35a7e.js",
+    "vendor.bundle.4ea82008ba94f7dd76fe.js",
+    "nuxt.bundle.460778f6f58f6ae8415d.js",
+    "manifest.044c10774f31d789d596.js",
     "api/blog/posts/2017-03-10-provide-inject-in-vue-2-2.json",
     "api/blog/posts/2017-03-05-fiddle-with-vue-js.json",
-    "1.nuxt.bundle.6871005028dac2acd854.js",
+    "1.nuxt.bundle.8e6cd042c754d0dc6c41.js",
     "api/blog/posts/2016-06-24-learning-education-this-world-and-beyond.json",
     "api/blog/tags/vue.json",
     "api/blog/tags/javascript.json",
@@ -27,18 +27,18 @@
     "index.html"
   ],
   "initial": [
-    "manifest.f99191f7b03a7be35a7e.js",
-    "vendor.bundle.e55b17f23472c056ccb1.js",
-    "nuxt.bundle.555099c08fe076e3c291.js"
+    "manifest.044c10774f31d789d596.js",
+    "vendor.bundle.4ea82008ba94f7dd76fe.js",
+    "nuxt.bundle.460778f6f58f6ae8415d.js"
   ],
   "async": [
-    "0.nuxt.bundle.37b4c1a8ac481f4aeb46.js",
-    "2.nuxt.bundle.a36c0f46a74fe9980d01.js",
-    "3.nuxt.bundle.5a589084326f9bb6f4e4.js",
+    "0.nuxt.bundle.7d453f20c4f47ca59715.js",
+    "2.nuxt.bundle.fb201e5fe5626ccf96f6.js",
+    "3.nuxt.bundle.185a2db0d3834a9ec9cb.js",
     "4.nuxt.bundle.4e723778c19b7f81600b.js",
     "5.nuxt.bundle.1725e73fb768b58ec15e.js",
     "6.nuxt.bundle.e151ec0a9db79ff8ea5d.js",
-    "1.nuxt.bundle.6871005028dac2acd854.js"
+    "1.nuxt.bundle.8e6cd042c754d0dc6c41.js"
   ],
   "modules": {
     "18152287": [
@@ -267,9 +267,6 @@
       7
     ],
     "295da664": [
-      7
-    ],
-    "c3766cd8": [
       7
     ],
     "e0213d50": [
@@ -528,6 +525,9 @@
       8
     ],
     "24a15a56": [
+      7
+    ],
+    "c3766cd8": [
       7
     ],
     "19d3597c": [
