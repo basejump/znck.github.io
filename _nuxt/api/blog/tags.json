@@ -1,14 +1,1 @@
-[
-  {
-    "id": "vue",
-    "name": "vue"
-  },
-  {
-    "id": "javascript",
-    "name": "javascript"
-  },
-  {
-    "id": "experience",
-    "name": "experience"
-  }
-]
+[{"id":"vue-router","name":"vue-router"},{"id":"vue-loader","name":"vue-loader"},{"id":"vue","name":"vue"},{"id":"javascript","name":"javascript"},{"id":"experience","name":"experience"}]
