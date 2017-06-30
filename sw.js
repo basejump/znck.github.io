@@ -19,8 +19,8 @@ importScripts('workbox-sw.prod.v1.0.1.js');
  */
 const fileManifest = [
   {
-    "url": "/_nuxt/0.nuxt.bundle.f3da257f4b183a50052b.js",
-    "revision": "245b641ba90fca4186c92b93b55682f8"
+    "url": "/_nuxt/0.nuxt.bundle.07b6af4f161d854f2663.js",
+    "revision": "1edeb24bbbad8726ee9d349dbc7b5686"
   },
   {
     "url": "/_nuxt/1.nuxt.bundle.afbce129bd4ab2e34daa.js",
@@ -64,19 +64,19 @@ const fileManifest = [
   },
   {
     "url": "/_nuxt/api/blog/posts/2017-03-03-first-day-in-vue-js.json",
-    "revision": "5d39fe1c7c223f0d4c91b8612aada310"
+    "revision": "974392c6377d739ffe11de575843dd54"
   },
   {
     "url": "/_nuxt/api/blog/posts/2017-03-05-fiddle-with-vue-js.json",
-    "revision": "c6173cc2683e7ede96110b7a102240df"
+    "revision": "1481f1f465b72132fda1f5433863bae6"
   },
   {
     "url": "/_nuxt/api/blog/posts/2017-03-10-provide-inject-in-vue-2-2.json",
-    "revision": "bccdc34f680d4c05e85dad616dbfd92c"
+    "revision": "86a4f45c2f600017773db899134cdc50"
   },
   {
     "url": "/_nuxt/api/blog/posts/2017-06-28-vue-loader-v13-vue-router-v2-7.json",
-    "revision": "c7c782855087d79d74cf605147755034"
+    "revision": "ce1156f257f70bcdd30f0530831f6740"
   },
   {
     "url": "/_nuxt/api/blog/tags.json",
@@ -104,23 +104,23 @@ const fileManifest = [
   },
   {
     "url": "/_nuxt/client-manifest.json",
-    "revision": "4309e8a19e3dc41d3494ba88185d1011"
+    "revision": "9d6243b80e64af9817fc5405ded08de7"
   },
   {
     "url": "/_nuxt/index.html",
     "revision": "744fb1c184ce0e85af057191b683d6a2"
   },
   {
-    "url": "/_nuxt/manifest.964d96fda85ded78de18.js",
-    "revision": "c9974b33aec70ec1c0d78608828cb7d7"
+    "url": "/_nuxt/manifest.acf203d5c680a8d966ba.js",
+    "revision": "0dbb99556711919178cddfdc183494b2"
   },
   {
-    "url": "/_nuxt/nuxt.bundle.c411b736389d4e5808ab.js",
-    "revision": "4b9efc9f6352c365ad0c3e91cc2fd7d2"
+    "url": "/_nuxt/nuxt.bundle.10493048c64bc62e53b0.js",
+    "revision": "adb92c507dd696c5eeec51d334792c13"
   },
   {
     "url": "/_nuxt/server-bundle.json",
-    "revision": "7ba92c5b8e8d52a60a6c24ba5def0408"
+    "revision": "f83b5ad30e2f0a4fec31d327c21d5131"
   },
   {
     "url": "/_nuxt/vendor.bundle.5ce052020f311fb8148e.js",
