@@ -2,18 +2,18 @@
   "publicPath": "/_nuxt/",
   "all": [
     "api/blog/posts/2017-03-05-fiddle-with-vue-js.json",
-    "0.nuxt.bundle.07b6af4f161d854f2663.js",
-    "2.nuxt.bundle.dcde196465e3f68f2037.js",
-    "3.nuxt.bundle.7e697415c2d0863ac3f6.js",
-    "4.nuxt.bundle.e946f30d08c853050163.js",
-    "5.nuxt.bundle.88266fe2fecbbc5a53c8.js",
-    "6.nuxt.bundle.ef82e97fdc29662a0681.js",
+    "0.nuxt.bundle.c9e1416a85b36e3a2162.js",
+    "2.nuxt.bundle.22b3f509a852f9ed1bc1.js",
+    "3.nuxt.bundle.01cf7cde8553999b8c6d.js",
+    "4.nuxt.bundle.03be2b50db310cd1a320.js",
+    "5.nuxt.bundle.457d3b2344e54bd6f383.js",
+    "6.nuxt.bundle.c9f639c685b29f73cb4d.js",
     "vendor.bundle.5ce052020f311fb8148e.js",
     "nuxt.bundle.10493048c64bc62e53b0.js",
-    "manifest.acf203d5c680a8d966ba.js",
+    "manifest.02b15aa51ede44393b3f.js",
     "api/blog/posts/2017-06-28-vue-loader-v13-vue-router-v2-7.json",
     "api/blog/posts/2017-03-10-provide-inject-in-vue-2-2.json",
-    "1.nuxt.bundle.afbce129bd4ab2e34daa.js",
+    "1.nuxt.bundle.8aa5db83d112dce82a9c.js",
     "api/blog/posts/2017-03-03-first-day-in-vue-js.json",
     "api/blog/tags/vue-router.json",
     "api/blog/tags/vue-loader.json",
@@ -28,18 +28,18 @@
     "index.html"
   ],
   "initial": [
-    "manifest.acf203d5c680a8d966ba.js",
+    "manifest.02b15aa51ede44393b3f.js",
     "vendor.bundle.5ce052020f311fb8148e.js",
     "nuxt.bundle.10493048c64bc62e53b0.js"
   ],
   "async": [
-    "0.nuxt.bundle.07b6af4f161d854f2663.js",
-    "2.nuxt.bundle.dcde196465e3f68f2037.js",
-    "3.nuxt.bundle.7e697415c2d0863ac3f6.js",
-    "4.nuxt.bundle.e946f30d08c853050163.js",
-    "5.nuxt.bundle.88266fe2fecbbc5a53c8.js",
-    "6.nuxt.bundle.ef82e97fdc29662a0681.js",
-    "1.nuxt.bundle.afbce129bd4ab2e34daa.js"
+    "0.nuxt.bundle.c9e1416a85b36e3a2162.js",
+    "2.nuxt.bundle.22b3f509a852f9ed1bc1.js",
+    "3.nuxt.bundle.01cf7cde8553999b8c6d.js",
+    "4.nuxt.bundle.03be2b50db310cd1a320.js",
+    "5.nuxt.bundle.457d3b2344e54bd6f383.js",
+    "6.nuxt.bundle.c9f639c685b29f73cb4d.js",
+    "1.nuxt.bundle.8aa5db83d112dce82a9c.js"
   ],
   "modules": {
     "16719206": [
@@ -600,6 +600,9 @@
     "ea38604e": [
       12
     ],
+    "f419e160": [
+      1
+    ],
     "0d191158": [
       1
     ],
@@ -654,6 +657,9 @@
     "12fca15d": [
       2
     ],
+    "8840b8c6": [
+      1
+    ],
     "740709ab": [
       1
     ],
@@ -695,6 +701,9 @@
     ],
     "2bb01d16": [
       3
+    ],
+    "747d38e8": [
+      1
     ],
     "06876acc": [
       2
