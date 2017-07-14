@@ -1,7 +1,7 @@
 {
   "publicPath": "/_nuxt/",
   "all": [
-    "api/blog/posts/2017-03-05-fiddle-with-vue-js.json",
+    "api/blog/posts/2017-03-10-provide-inject-in-vue-2-2.json",
     "0.nuxt.bundle.4bac4a3a15eacbe6e3b9.js",
     "2.nuxt.bundle.0d3e2fbaab828f525cd6.js",
     "3.nuxt.bundle.dbad4ba5904f44035ed0.js",
@@ -11,10 +11,11 @@
     "vendor.bundle.5ce052020f311fb8148e.js",
     "nuxt.bundle.22968ec5586c863d5cd3.js",
     "manifest.19d4881160b39acf7255.js",
+    "api/blog/posts/2017-07-17-build-maven-projects-in-docker-container.json",
     "api/blog/posts/2017-07-12-vue-v2-4.json",
     "api/blog/posts/2017-06-28-vue-loader-v13-vue-router-v2-7.json",
-    "api/blog/posts/2017-03-10-provide-inject-in-vue-2-2.json",
     "1.nuxt.bundle.c80de3bad9d9dd8a429e.js",
+    "api/blog/posts/2017-03-05-fiddle-with-vue-js.json",
     "api/blog/posts/2017-03-03-first-day-in-vue-js.json",
     "api/blog/tags/vue-router.json",
     "api/blog/tags/vue-loader.json",

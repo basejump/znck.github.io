@@ -48,7 +48,7 @@ const fileManifest = [
   },
   {
     "url": "/_nuxt/api/blog.json",
-    "revision": "302c6bec98dd0ce2f1d050217a6363c0"
+    "revision": "e601ce7cc1ac108cfb14353495521f38"
   },
   {
     "url": "/_nuxt/api/blog/collections.json",
@@ -56,7 +56,7 @@ const fileManifest = [
   },
   {
     "url": "/_nuxt/api/blog/collections/new-in-vue.json",
-    "revision": "f0b347995143404d7aab059c1c22f4fb"
+    "revision": "6cf909b85431f4dc566368887efed519"
   },
   {
     "url": "/_nuxt/api/blog/collections/vue.json",
@@ -76,11 +76,15 @@ const fileManifest = [
   },
   {
     "url": "/_nuxt/api/blog/posts/2017-06-28-vue-loader-v13-vue-router-v2-7.json",
-    "revision": "1409ebec7a8d6e003c9cb307236d0248"
+    "revision": "82b194f7993aeb5151b561f45f9413f9"
   },
   {
     "url": "/_nuxt/api/blog/posts/2017-07-12-vue-v2-4.json",
-    "revision": "abbe06a219cd8b185f4fd28772e79fab"
+    "revision": "9c72b5d3775a7a3ebaf9efb0089f5fc7"
+  },
+  {
+    "url": "/_nuxt/api/blog/posts/2017-07-17-build-maven-projects-in-docker-container.json",
+    "revision": "05da27b78f1177d9da663a4d99704afc"
   },
   {
     "url": "/_nuxt/api/blog/tags.json",
@@ -104,11 +108,11 @@ const fileManifest = [
   },
   {
     "url": "/_nuxt/api/blog/tags/vue.json",
-    "revision": "f214468e8deed16b5e7d7af4b40270e0"
+    "revision": "c6614c347ee93ca9ed10576da05616c9"
   },
   {
     "url": "/_nuxt/client-manifest.json",
-    "revision": "d910f0481bcd972b94afbeba7fb44c2c"
+    "revision": "230004f3af15c70e6f687809cd82929d"
   },
   {
     "url": "/_nuxt/index.html",
