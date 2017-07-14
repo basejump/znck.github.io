@@ -19,8 +19,8 @@ importScripts('workbox-sw.prod.v1.0.1.js');
  */
 const fileManifest = [
   {
-    "url": "/_nuxt/0.nuxt.bundle.4bac4a3a15eacbe6e3b9.js",
-    "revision": "7dfa9c17448970cf935851993fa5ae81"
+    "url": "/_nuxt/0.nuxt.bundle.18ec859962649e898142.js",
+    "revision": "fe1fd175b66b18817fba69bf2d99eedf"
   },
   {
     "url": "/_nuxt/1.nuxt.bundle.c80de3bad9d9dd8a429e.js",
@@ -108,15 +108,15 @@ const fileManifest = [
   },
   {
     "url": "/_nuxt/client-manifest.json",
-    "revision": "d910f0481bcd972b94afbeba7fb44c2c"
+    "revision": "360ded92162ef75b59f90df373b650ba"
   },
   {
     "url": "/_nuxt/index.html",
     "revision": "744fb1c184ce0e85af057191b683d6a2"
   },
   {
-    "url": "/_nuxt/manifest.19d4881160b39acf7255.js",
-    "revision": "f21cb066f3efa3b291e0bbc07a993a7e"
+    "url": "/_nuxt/manifest.809cafbceb3abc3b0fda.js",
+    "revision": "4ad7e16578b17069dabab585e336e2e9"
   },
   {
     "url": "/_nuxt/nuxt.bundle.22968ec5586c863d5cd3.js",
@@ -124,7 +124,7 @@ const fileManifest = [
   },
   {
     "url": "/_nuxt/server-bundle.json",
-    "revision": "73e45ece96581b80107a7fc7ebf53acc"
+    "revision": "3344437528b03441c58cdf4be1dfb75e"
   },
   {
     "url": "/_nuxt/vendor.bundle.5ce052020f311fb8148e.js",
