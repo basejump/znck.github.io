@@ -2,19 +2,19 @@
   "publicPath": "/_nuxt/",
   "all": [
     "api/blog/posts/2017-03-05-fiddle-with-vue-js.json",
-    "0.nuxt.bundle.3cf39e6831c6eb4b3a3a.js",
-    "2.nuxt.bundle.3359c7f75b979e37b07d.js",
-    "3.nuxt.bundle.8da5228ac22c2d97aca8.js",
+    "0.nuxt.bundle.4bac4a3a15eacbe6e3b9.js",
+    "2.nuxt.bundle.0d3e2fbaab828f525cd6.js",
+    "3.nuxt.bundle.dbad4ba5904f44035ed0.js",
     "4.nuxt.bundle.d96af056c86ddbb9ba74.js",
     "5.nuxt.bundle.8e076fb7aca1f521c1fc.js",
     "6.nuxt.bundle.b2946597d0a27356a3ff.js",
     "vendor.bundle.5ce052020f311fb8148e.js",
     "nuxt.bundle.22968ec5586c863d5cd3.js",
-    "manifest.e2cddb4d9e5ae682d063.js",
+    "manifest.19d4881160b39acf7255.js",
     "api/blog/posts/2017-07-12-vue-v2-4.json",
     "api/blog/posts/2017-06-28-vue-loader-v13-vue-router-v2-7.json",
     "api/blog/posts/2017-03-10-provide-inject-in-vue-2-2.json",
-    "1.nuxt.bundle.f025f0d2169d964b1ecd.js",
+    "1.nuxt.bundle.c80de3bad9d9dd8a429e.js",
     "api/blog/posts/2017-03-03-first-day-in-vue-js.json",
     "api/blog/tags/vue-router.json",
     "api/blog/tags/vue-loader.json",
@@ -29,18 +29,18 @@
     "index.html"
   ],
   "initial": [
-    "manifest.e2cddb4d9e5ae682d063.js",
+    "manifest.19d4881160b39acf7255.js",
     "vendor.bundle.5ce052020f311fb8148e.js",
     "nuxt.bundle.22968ec5586c863d5cd3.js"
   ],
   "async": [
-    "0.nuxt.bundle.3cf39e6831c6eb4b3a3a.js",
-    "2.nuxt.bundle.3359c7f75b979e37b07d.js",
-    "3.nuxt.bundle.8da5228ac22c2d97aca8.js",
+    "0.nuxt.bundle.4bac4a3a15eacbe6e3b9.js",
+    "2.nuxt.bundle.0d3e2fbaab828f525cd6.js",
+    "3.nuxt.bundle.dbad4ba5904f44035ed0.js",
     "4.nuxt.bundle.d96af056c86ddbb9ba74.js",
     "5.nuxt.bundle.8e076fb7aca1f521c1fc.js",
     "6.nuxt.bundle.b2946597d0a27356a3ff.js",
-    "1.nuxt.bundle.f025f0d2169d964b1ecd.js"
+    "1.nuxt.bundle.c80de3bad9d9dd8a429e.js"
   ],
   "modules": {
     "49488437": [
@@ -655,7 +655,7 @@
     "720fbb67": [
       2
     ],
-    "229d3b82": [
+    "657db1d9": [
       1
     ],
     "5d5430ac": [
@@ -730,7 +730,7 @@
     "12c6b286": [
       2
     ],
-    "4ef90458": [
+    "be8b137a": [
       1
     ],
     "1e6797fe": [
