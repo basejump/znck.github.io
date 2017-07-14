@@ -80,7 +80,7 @@ const fileManifest = [
   },
   {
     "url": "/_nuxt/api/blog/posts/2017-07-12-vue-v2-4.json",
-    "revision": "c39fe983686c0c07807aea4862e40755"
+    "revision": "abbe06a219cd8b185f4fd28772e79fab"
   },
   {
     "url": "/_nuxt/api/blog/tags.json",
