@@ -9,8 +9,8 @@
     "5.nuxt.bundle.8e076fb7aca1f521c1fc.js",
     "6.nuxt.bundle.b2946597d0a27356a3ff.js",
     "vendor.bundle.5ce052020f311fb8148e.js",
-    "nuxt.bundle.22968ec5586c863d5cd3.js",
-    "manifest.809cafbceb3abc3b0fda.js",
+    "nuxt.bundle.5b4a37315a36685b0470.js",
+    "manifest.964a7a9e3261186ca8c5.js",
     "api/blog/posts/2017-07-12-vue-v2-4.json",
     "api/blog/posts/2017-06-28-vue-loader-v13-vue-router-v2-7.json",
     "api/blog/posts/2017-03-10-provide-inject-in-vue-2-2.json",
@@ -29,9 +29,9 @@
     "index.html"
   ],
   "initial": [
-    "manifest.809cafbceb3abc3b0fda.js",
+    "manifest.964a7a9e3261186ca8c5.js",
     "vendor.bundle.5ce052020f311fb8148e.js",
-    "nuxt.bundle.22968ec5586c863d5cd3.js"
+    "nuxt.bundle.5b4a37315a36685b0470.js"
   ],
   "async": [
     "0.nuxt.bundle.18ec859962649e898142.js",
