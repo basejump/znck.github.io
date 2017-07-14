@@ -2,18 +2,19 @@
   "publicPath": "/_nuxt/",
   "all": [
     "api/blog/posts/2017-03-05-fiddle-with-vue-js.json",
-    "0.nuxt.bundle.c9e1416a85b36e3a2162.js",
-    "2.nuxt.bundle.22b3f509a852f9ed1bc1.js",
-    "3.nuxt.bundle.01cf7cde8553999b8c6d.js",
-    "4.nuxt.bundle.03be2b50db310cd1a320.js",
-    "5.nuxt.bundle.457d3b2344e54bd6f383.js",
-    "6.nuxt.bundle.c9f639c685b29f73cb4d.js",
+    "0.nuxt.bundle.3cf39e6831c6eb4b3a3a.js",
+    "2.nuxt.bundle.3359c7f75b979e37b07d.js",
+    "3.nuxt.bundle.8da5228ac22c2d97aca8.js",
+    "4.nuxt.bundle.d96af056c86ddbb9ba74.js",
+    "5.nuxt.bundle.8e076fb7aca1f521c1fc.js",
+    "6.nuxt.bundle.b2946597d0a27356a3ff.js",
     "vendor.bundle.5ce052020f311fb8148e.js",
-    "nuxt.bundle.10493048c64bc62e53b0.js",
-    "manifest.02b15aa51ede44393b3f.js",
+    "nuxt.bundle.22968ec5586c863d5cd3.js",
+    "manifest.e2cddb4d9e5ae682d063.js",
+    "api/blog/posts/2017-07-12-vue-v2-4.json",
     "api/blog/posts/2017-06-28-vue-loader-v13-vue-router-v2-7.json",
     "api/blog/posts/2017-03-10-provide-inject-in-vue-2-2.json",
-    "1.nuxt.bundle.8aa5db83d112dce82a9c.js",
+    "1.nuxt.bundle.f025f0d2169d964b1ecd.js",
     "api/blog/posts/2017-03-03-first-day-in-vue-js.json",
     "api/blog/tags/vue-router.json",
     "api/blog/tags/vue-loader.json",
@@ -28,23 +29,20 @@
     "index.html"
   ],
   "initial": [
-    "manifest.02b15aa51ede44393b3f.js",
+    "manifest.e2cddb4d9e5ae682d063.js",
     "vendor.bundle.5ce052020f311fb8148e.js",
-    "nuxt.bundle.10493048c64bc62e53b0.js"
+    "nuxt.bundle.22968ec5586c863d5cd3.js"
   ],
   "async": [
-    "0.nuxt.bundle.c9e1416a85b36e3a2162.js",
-    "2.nuxt.bundle.22b3f509a852f9ed1bc1.js",
-    "3.nuxt.bundle.01cf7cde8553999b8c6d.js",
-    "4.nuxt.bundle.03be2b50db310cd1a320.js",
-    "5.nuxt.bundle.457d3b2344e54bd6f383.js",
-    "6.nuxt.bundle.c9f639c685b29f73cb4d.js",
-    "1.nuxt.bundle.8aa5db83d112dce82a9c.js"
+    "0.nuxt.bundle.3cf39e6831c6eb4b3a3a.js",
+    "2.nuxt.bundle.3359c7f75b979e37b07d.js",
+    "3.nuxt.bundle.8da5228ac22c2d97aca8.js",
+    "4.nuxt.bundle.d96af056c86ddbb9ba74.js",
+    "5.nuxt.bundle.8e076fb7aca1f521c1fc.js",
+    "6.nuxt.bundle.b2946597d0a27356a3ff.js",
+    "1.nuxt.bundle.f025f0d2169d964b1ecd.js"
   ],
   "modules": {
-    "16719206": [
-      1
-    ],
     "49488437": [
       7
     ],
@@ -564,17 +562,17 @@
     "629e580d": [
       7
     ],
-    "4c46d5d1": [
+    "2684e1e0": [
       1
     ],
-    "9eb08252": [
+    "2da8c528": [
       3
     ],
-    "650013da": [
+    "300588b8": [
       2
     ],
-    "15eeeff5": [
-      12
+    "2a7b5b84": [
+      13
     ],
     "18fc4b10": [
       4
@@ -585,38 +583,41 @@
     "ffa30c8a": [
       5
     ],
-    "b65cd892": [
+    "b9e38438": [
       1
     ],
-    "2ea130cf": [
+    "ccff7e88": [
       1
     ],
-    "2cb512d9": [
+    "b297adec": [
+      1
+    ],
+    "7a69b828": [
       3
     ],
-    "168e7f5d": [
+    "7b2a3630": [
       2
     ],
-    "ea38604e": [
-      12
+    "4be45f34": [
+      13
     ],
-    "f419e160": [
+    "6814c599": [
       1
     ],
-    "0d191158": [
+    "a8c429a2": [
       1
     ],
-    "302ea484": [
+    "354bb3cd": [
       1
     ],
-    "6b22a504": [
+    "26d4025b": [
       3
     ],
-    "6a2ec680": [
+    "7ae48697": [
       2
     ],
-    "9ecfdfb0": [
-      12
+    "71aba81e": [
+      13
     ],
     "d4a7f104": [
       4
@@ -633,20 +634,17 @@
     "f0eeeeb0": [
       5
     ],
-    "1ef93488": [
-      12
-    ],
     "b495baac": [
       6
     ],
-    "290b0a88": [
+    "33a34d70": [
       1
+    ],
+    "25b6216f": [
+      13
     ],
     "7aba91f4": [
       4
-    ],
-    "9819fd7a": [
-      1
     ],
     "6402f215": [
       5
@@ -654,13 +652,16 @@
     "e30ba36a": [
       4
     ],
-    "12fca15d": [
+    "720fbb67": [
       2
     ],
-    "8840b8c6": [
+    "229d3b82": [
       1
     ],
-    "740709ab": [
+    "5d5430ac": [
+      1
+    ],
+    "3ceb0108": [
       1
     ],
     "e35c0ede": [
@@ -672,22 +673,19 @@
     "04bfd502": [
       1
     ],
-    "36f3081f": [
-      12
-    ],
     "3109048d": [
       6
     ],
-    "5358d423": [
+    "353b8f3b": [
       1
+    ],
+    "4885407c": [
+      13
     ],
     "98c078f2": [
       4
     ],
     "4f06dadd": [
-      1
-    ],
-    "55b361d4": [
       1
     ],
     "74ca66b4": [
@@ -699,29 +697,29 @@
     "727fee91": [
       4
     ],
-    "2bb01d16": [
-      3
-    ],
-    "747d38e8": [
-      1
-    ],
-    "06876acc": [
+    "d0c3e844": [
       2
     ],
-    "0acb0e5e": [
-      12
+    "b4b06eb6": [
+      3
+    ],
+    "bff3dd1e": [
+      1
+    ],
+    "7767fb53": [
+      1
     ],
     "1484f4d8": [
       6
     ],
-    "f7010cdc": [
+    "216b1db2": [
       1
+    ],
+    "3209aad9": [
+      13
     ],
     "70a5e348": [
       4
-    ],
-    "3b8ddd2d": [
-      1
     ],
     "28c46402": [
       5
@@ -729,8 +727,11 @@
     "65862abe": [
       4
     ],
-    "1f502ac7": [
+    "12c6b286": [
       2
+    ],
+    "4ef90458": [
+      1
     ],
     "1e6797fe": [
       5
